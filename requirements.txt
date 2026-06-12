@@ -1,0 +1,9 @@
+torch
+diffusers>=0.32.0
+accelerate
+transformers
+huggingface-hub
+gradio
+imageio
+imageio-ffmpeg
+einops
